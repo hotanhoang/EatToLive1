@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866290045908",
+    "firebase_url": "https://eattolive-9204c.firebaseio.com",
+    "project_id": "eattolive-9204c",
+    "storage_bucket": "eattolive-9204c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866290045908:android:a4c07fd6f22dee3ed7bc41",
+        "android_client_info": {
+          "package_name": "com.example.eattolive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866290045908-nu2tihe3tl3orc6grgkb6cvttm8tlscc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eattolive",
+            "certificate_hash": "11fba8c5e37efb90f167cfdd1893f978fb041493"
+          }
+        },
+        {
+          "client_id": "866290045908-61i50vjk23s93did6b4po7oiefjtvk4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwRGVYnu37bF8sKGO9hOl0Wxv1ffckx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866290045908-61i50vjk23s93did6b4po7oiefjtvk4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
